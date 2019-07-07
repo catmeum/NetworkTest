@@ -18,7 +18,7 @@ Ian Stroszeck
     - Show each test (pass/fail) if anything failed
 ### Flowchart (v1.0)
 
-[](https://github.com/catmeum/NetworkTest/blob/master/Panes_for_wireframe/Network_Testing_Flowchart_v1.0.png)
+![Flowchartv1.0](https://github.com/catmeum/NetworkTest/blob/master/Panes_for_wireframe/Network_Testing_Flowchart_v1.0.png)
 ### TO-DO:
 1. Create Icons
   - [x] Green Check circle
