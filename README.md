@@ -18,12 +18,16 @@ Ian Stroszeck
     - Show each test (pass/fail) if anything failed
 
 ### TO-DO:
-1. Create the following icons
-  - Green Check circle
-  - Red X circle
-  - Yellow alert circle
-  - pulsing blue progress circle
-2. Finish Wireframing
-  - Add in icons
-  - Show finished page (with retest)
-3. Setup project in C# Visual Studio
+1. [ ] Create the following icons
+  - [x] Green Check circle
+  - [x] Red X circle
+  - [x] Grey circle outline
+  - [ ] Pulsing blue progress icon
+2. [x] Finish Wireframing
+  - [x] Add in icons (or stand-ins)
+  - [x] Create Lucidchart Flowchart v1.0 and add to GitHub
+  - [x] Show results page
+  - [ ] BONUS - Add in extra pages to help fix specific network issues
+  	- Auto run console commands (flush DNS, etc.)
+3. [ ] Setup project in C# Visual Studio
+  - [ ] 
