@@ -16,7 +16,8 @@ Ian Stroszeck
   - If all tests succeeded, show one big green checkbox with nice message
   - If any or all tests failed, show appropriate message on possible solution
     - Show each test (pass/fail) if anything failed
-
+### Flowchart (v1.0)
+![Flowchartv1.0](https://github.com/catmeum/NetworkTest/blob/master/Panes_for_wireframe/Network_Testing_Flowchart_v1.0.png)
 ### TO-DO:
 1. Create Icons
   - [x] Green Check circle
@@ -37,3 +38,4 @@ Ian Stroszeck
   - [ ] Research how to get computer info for start screen
   - [ ] Research how to run OS commands from C#
 5. Other
+
