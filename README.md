@@ -18,16 +18,22 @@ Ian Stroszeck
     - Show each test (pass/fail) if anything failed
 
 ### TO-DO:
-1. [ ] Create the following icons
+1. Create Icons
   - [x] Green Check circle
   - [x] Red X circle
   - [x] Grey circle outline
   - [ ] Pulsing blue progress icon
-2. [x] Finish Wireframing
+2. Wireframing
   - [x] Add in icons (or stand-ins)
   - [x] Create Lucidchart Flowchart v1.0 and add to GitHub
   - [x] Show results page
   - [ ] BONUS - Add in extra pages to help fix specific network issues
   	- Auto run console commands (flush DNS, etc.)
-3. [ ] Setup project in C# Visual Studio
-  - [ ] 
+3. Setup project in C# Visual Studio
+  - [ ] Create git ignore file
+  - [ ] Create basic design in C#
+  - [ ] Name elements
+4. Backend 
+  - [ ] Research how to get computer info for start screen
+  - [ ] Research how to run OS commands from C#
+5. Other
