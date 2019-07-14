@@ -24,7 +24,7 @@ Ian Stroszeck
   - [x] Green Check circle
   - [x] Red X circle
   - [x] Grey circle outline
-  - [ ] Pulsing blue progress icon
+  - [x] Pulsing blue progress icon
 2. Wireframing
   - [x] Add in icons (or stand-ins)
   - [x] Create Lucidchart Flowchart v1.0 and add to GitHub
@@ -34,9 +34,15 @@ Ian Stroszeck
 3. Setup project in C# Visual Studio
   - [ ] Create git ignore file
   - [ ] Create basic design in C#
-  - [ ] Name elements
+  - [x] Name elements
+  - [ ] Add panel for testing and results
+  - [ ] Fix Layout so program scales properly  
 4. Backend 
   - [ ] Research how to get computer info for start screen
   - [ ] Research how to run OS commands from C#
+  - [ ] Read more about running Powershell from C#
 5. Other
-
+  - [ ] Fix size of window to show full start screen
+  - [ ] Fix to show IPv4 Address instead of IPv6
+  - [ ] Fix MAC address to be the MAC of the IPv4 Address
+  - [ ] Fix Hard Drive Space

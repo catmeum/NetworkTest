@@ -1,0 +1,17 @@
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\bin\Debug\Network Test.exe.config
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\bin\Debug\Network Test.exe
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\bin\Debug\Network Test.pdb
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\bin\Debug\ControlzEx.dll
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\bin\Debug\MahApps.Metro.dll
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\bin\Debug\ControlzEx.pdb
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\bin\Debug\MahApps.Metro.pdb
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\bin\Debug\MahApps.Metro.xml
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\obj\Debug\Network Test.csprojAssemblyReference.cache
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\obj\Debug\Network_Test.StartPage.resources
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\obj\Debug\Network_Test.Properties.Resources.resources
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\obj\Debug\Network Test.csproj.GenerateResource.cache
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\obj\Debug\Network Test.csproj.CoreCompileInputs.cache
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\obj\Debug\Network Test.csproj.CopyComplete
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\obj\Debug\Network Test.exe
+C:\Users\Ian's Laptop\Documents\GitHub\NetworkTest\Program_files\Network Test\obj\Debug\Network Test.pdb
