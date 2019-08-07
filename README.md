@@ -24,7 +24,7 @@ Ian Stroszeck
   - [x] Green Check circle
   - [x] Red X circle
   - [x] Grey circle outline
-  - [x] Pulsing blue progress icon
+  - [ ] Pulsing blue progress icon (Make light blue and dark blue circles cross over each other. Each one taking the size of the other)
 2. Wireframing
   - [x] Add in icons (or stand-ins)
   - [x] Create Lucidchart Flowchart v1.0 and add to GitHub
